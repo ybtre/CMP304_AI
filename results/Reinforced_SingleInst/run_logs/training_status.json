@@ -1,0 +1,23 @@
+{
+    "Reinforced": {
+        "checkpoints": [
+            {
+                "steps": 100907,
+                "file_path": "results\\Reinforced_SingleInst\\Reinforced\\Reinforced-100907.onnx",
+                "reward": null,
+                "creation_time": 1616628507.0997415
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100907,
+            "file_path": "results\\Reinforced_SingleInst\\Reinforced.onnx",
+            "reward": null,
+            "creation_time": 1616628507.0997415
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

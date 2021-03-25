@@ -1,0 +1,51 @@
+{
+    "Behav": {
+        "checkpoints": [
+            {
+                "steps": 499995,
+                "file_path": "results\\Behavioural\\Behav\\Behav-499995.onnx",
+                "reward": null,
+                "creation_time": 1616614653.3427138
+            },
+            {
+                "steps": 999957,
+                "file_path": "results\\Behavioural\\Behav\\Behav-999957.onnx",
+                "reward": -1.1885000343124072,
+                "creation_time": 1616620215.9027133
+            },
+            {
+                "steps": 1215938,
+                "file_path": "results\\Behavioural\\Behav\\Behav-1215938.onnx",
+                "reward": -0.7964046669243021,
+                "creation_time": 1616621012.0579236
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1215938,
+            "file_path": "results\\Behavioural\\Behav.onnx",
+            "reward": -0.7964046669243021,
+            "creation_time": 1616621012.0579236
+        }
+    },
+    "Imitation": {
+        "checkpoints": [
+            {
+                "steps": 280624,
+                "file_path": "results\\Behavioural\\Imitation\\Imitation-280624.onnx",
+                "reward": 1.8027909967032345,
+                "creation_time": 1616621011.8760288
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 280624,
+            "file_path": "results\\Behavioural\\Imitation.onnx",
+            "reward": 1.8027909967032345,
+            "creation_time": 1616621011.8760288
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

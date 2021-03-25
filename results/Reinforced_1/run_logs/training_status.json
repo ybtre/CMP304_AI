@@ -1,0 +1,51 @@
+{
+    "Reinforced": {
+        "checkpoints": [
+            {
+                "steps": 499989,
+                "file_path": "results\\Reinforced_1\\Reinforced\\Reinforced-499989.onnx",
+                "reward": 1.8530000845591228,
+                "creation_time": 1616543529.0944877
+            },
+            {
+                "steps": 999995,
+                "file_path": "results\\Reinforced_1\\Reinforced\\Reinforced-999995.onnx",
+                "reward": 1.8691429240362984,
+                "creation_time": 1616546270.7762084
+            },
+            {
+                "steps": 1004075,
+                "file_path": "results\\Reinforced_1\\Reinforced\\Reinforced-1004075.onnx",
+                "reward": 1.8617237625937713,
+                "creation_time": 1616546281.6882565
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1004075,
+            "file_path": "results\\Reinforced_1\\Reinforced.onnx",
+            "reward": 1.8617237625937713,
+            "creation_time": 1616546281.6882565
+        }
+    },
+    "Imitation": {
+        "checkpoints": [
+            {
+                "steps": 250931,
+                "file_path": "results\\Reinforced_1\\Imitation\\Imitation-250931.onnx",
+                "reward": -0.04413042946354202,
+                "creation_time": 1616546281.5661478
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 250931,
+            "file_path": "results\\Reinforced_1\\Imitation.onnx",
+            "reward": -0.04413042946354202,
+            "creation_time": 1616546281.5661478
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

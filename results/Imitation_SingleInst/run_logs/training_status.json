@@ -1,0 +1,23 @@
+{
+    "Imitation": {
+        "checkpoints": [
+            {
+                "steps": 101133,
+                "file_path": "results\\Imitation_SingleInst\\Imitation\\Imitation-101133.onnx",
+                "reward": null,
+                "creation_time": 1616625910.4595222
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 101133,
+            "file_path": "results\\Imitation_SingleInst\\Imitation.onnx",
+            "reward": null,
+            "creation_time": 1616625910.4595222
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
