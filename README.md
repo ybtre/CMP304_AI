@@ -1,4 +1,6 @@
-CMP304 Artificial Intelligence
+# CMP304 Artificial Intelligence
+
+![Header Image](ML_Agent.png)
 
 If not interested in the Unity project, but only in the Scripts used, then the relevant scripts are located in Assets/Scripts - BeaconAgent.cs; Goal.cs; BeaconButton.cs; Wall.cs The logic for the ML Agent are in BeaconAgent, everything else is helper scripts used for the testing environment.
 
